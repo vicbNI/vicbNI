@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicbNI
-- 👀 I’m interested in programming in Java Script and binary.
+- 👀 I’m interested in programming in Java and binary.
 - 🌱 I’m currently studying for an MSC in software development
 - 💞️ I’m looking to collaborate on coding challenges, practical study groups. 
 
